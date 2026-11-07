@@ -1,0 +1,9 @@
+# 版面依赖：pip 走华为云 PyPI 镜像（国内快），镜像上没有的版本自动回落到官方 PyPI。
+--index-url https://mirrors.huaweicloud.com/repository/pypi/simple
+--extra-index-url https://pypi.org/simple
+paddlepaddle==3.0.0
+paddleocr==3.7.0
+paddlex==3.7.2
+pymupdf==1.28.2
+pillow==13.0.0
+numpy==2.3.5
